@@ -1,43 +1,43 @@
-.admin{
-    background-color: rgb(81, 160, 239);
-    background: linear-gradient(to right, dodgerblue, mediumseagreen);
-    background-size: 200%;
-    font-family: 'Poppins', sans-serif;
+.admin {
+  background-color: rgb(81, 160, 239);
+  background: linear-gradient(to right, dodgerblue, mediumseagreen);
+  background-size: 200%;
+  font-family: "Poppins", sans-serif;
 }
-.nuevo-articulo-form{
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    justify-content: center;
-    gap: 1rem;
+.nuevo-articulo-form {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 1rem;
 }
-.submit-btn{
-    border: none;
-    background-color: rgb(10, 169, 90);
-    color: white;
-    border-radius: 8px;
-    padding: 12px 30px;
-    cursor: pointer;
-    border: 1px solid;
-    align-self: flex-end;
+.submit-btn {
+  border: none;
+  background-color: rgb(10, 169, 90);
+  color: white;
+  border-radius: 8px;
+  padding: 12px 30px;
+  cursor: pointer;
+  border: 1px solid;
+  align-self: flex-end;
 }
-.nav-btn{
-    background: linear-gradient(45deg, dodgerblue, rgb(72, 220, 228));
-    background-size: 300%;
-    position: absolute;
-    bottom: 2rem;
-    left: 50%;
+.nav-btn {
+  background: linear-gradient(45deg, dodgerblue, rgb(72, 220, 228));
+  background-size: 300%;
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
 }
-.field > input{
-    padding: 6px 12px;
-    margin: 5px;
-    inline-size: -webkit-fill-available;
-    border-radius: 7px;
-    border: none;
+.field > input {
+  padding: 6px 12px;
+  margin: 5px;
+  inline-size: -webkit-fill-available;
+  border-radius: 7px;
+  border: none;
 }
-.field{
-    inline-size: -webkit-fill-available;
+.field {
+  inline-size: -webkit-fill-available;
 }
-.box-shadow{
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+.box-shadow {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
